@@ -38,6 +38,8 @@ app.post("/signup", async (req, res) => {
     
 })
 
+//auth tested and working
+
 app.post("/signin", async (req, res) => {
     const parsedData = SigninSchema.safeParse(req.body)
     if (!parsedData.success) {
