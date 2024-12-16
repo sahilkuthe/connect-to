@@ -1,0 +1,1 @@
+{"root":["./src/config.ts","./src/index.ts","./src/middleware/admin.ts","./src/middleware/user.ts","./src/router/admin.ts","./src/router/index.ts","./src/router/space.ts","./src/router/user.ts","./src/types/index.ts"],"version":"5.7.2"}
